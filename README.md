@@ -35,8 +35,6 @@
 
 Isso iniciará o código. Para acessar a interface, abra no navegador http://localhost:8501/ 🌐
 
-https://www.loom.com/share/664775b86da7427695d32512abd0350d
-
 ## Demo: 🎥
 
-
+https://www.loom.com/share/fc371816a1ef429ab87ad7e6332126cc
